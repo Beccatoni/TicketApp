@@ -11,7 +11,8 @@ module.exports = {
 
   theme: {
     fontFamily:{
-      'Maamli':["Ga Maamli"]
+      'Maamli':["Ga Maamli"],
+      'Caligraphi': ["Dancing Script"]
     },
 
     extend: {
